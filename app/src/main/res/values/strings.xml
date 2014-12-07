@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colorio</string>
+    <string name="title_activity_main">Colorio</string>
+    <string name="hello_world">Processing your image ... </string>
+
+</resources>
